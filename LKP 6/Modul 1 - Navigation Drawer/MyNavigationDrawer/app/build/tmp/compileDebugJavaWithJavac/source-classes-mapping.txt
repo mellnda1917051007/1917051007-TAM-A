@@ -1,0 +1,42 @@
+com/example/mynavigationdrawer/SubwayActivity.java
+ com.example.mynavigationdrawer.SubwayActivity
+com/example/mynavigationdrawer/databinding/ContentMainBinding.java
+ com.example.mynavigationdrawer.databinding.ContentMainBinding
+com/example/mynavigationdrawer/databinding/FragmentHomeBinding.java
+ com.example.mynavigationdrawer.databinding.FragmentHomeBinding
+com/example/mynavigationdrawer/databinding/ActivitySubwayBinding.java
+ com.example.mynavigationdrawer.databinding.ActivitySubwayBinding
+com/example/mynavigationdrawer/MainActivity.java
+ com.example.mynavigationdrawer.MainActivity
+ com.example.mynavigationdrawer.MainActivity$1
+com/example/mynavigationdrawer/ui/home/HomeViewModel.java
+ com.example.mynavigationdrawer.ui.home.HomeViewModel
+com/example/mynavigationdrawer/databinding/ActivityMainBinding.java
+ com.example.mynavigationdrawer.databinding.ActivityMainBinding
+com/example/mynavigationdrawer/ui/slideshow/SlideshowViewModel.java
+ com.example.mynavigationdrawer.ui.slideshow.SlideshowViewModel
+com/example/mynavigationdrawer/databinding/AppBarMainBinding.java
+ com.example.mynavigationdrawer.databinding.AppBarMainBinding
+com/example/mynavigationdrawer/databinding/FragmentSlideshowBinding.java
+ com.example.mynavigationdrawer.databinding.FragmentSlideshowBinding
+com/example/mynavigationdrawer/ui/slideshow/SlideshowFragment.java
+ com.example.mynavigationdrawer.ui.slideshow.SlideshowFragment
+ com.example.mynavigationdrawer.ui.slideshow.SlideshowFragment$1
+com/example/mynavigationdrawer/ui/home/HomeFragment.java
+ com.example.mynavigationdrawer.ui.home.HomeFragment
+ com.example.mynavigationdrawer.ui.home.HomeFragment$1
+com/example/mynavigationdrawer/BuildConfig.java
+ com.example.mynavigationdrawer.BuildConfig
+com/example/mynavigationdrawer/CartFragment.java
+ com.example.mynavigationdrawer.CartFragment
+com/example/mynavigationdrawer/ui/gallery/GalleryFragment.java
+ com.example.mynavigationdrawer.ui.gallery.GalleryFragment
+ com.example.mynavigationdrawer.ui.gallery.GalleryFragment$1
+com/example/mynavigationdrawer/databinding/NavHeaderMainBinding.java
+ com.example.mynavigationdrawer.databinding.NavHeaderMainBinding
+com/example/mynavigationdrawer/databinding/FragmentCartBinding.java
+ com.example.mynavigationdrawer.databinding.FragmentCartBinding
+com/example/mynavigationdrawer/databinding/FragmentGalleryBinding.java
+ com.example.mynavigationdrawer.databinding.FragmentGalleryBinding
+com/example/mynavigationdrawer/ui/gallery/GalleryViewModel.java
+ com.example.mynavigationdrawer.ui.gallery.GalleryViewModel

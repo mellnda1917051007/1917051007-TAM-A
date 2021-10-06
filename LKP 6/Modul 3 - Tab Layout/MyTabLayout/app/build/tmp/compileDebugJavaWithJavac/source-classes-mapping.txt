@@ -1,0 +1,10 @@
+com/example/mytablayout/HomeFragment.java
+ com.example.mytablayout.HomeFragment
+com/example/mytablayout/SectionsPagerAdapter.java
+ com.example.mytablayout.SectionsPagerAdapter
+com/example/mytablayout/ProfileFragment.java
+ com.example.mytablayout.ProfileFragment
+com/example/mytablayout/BuildConfig.java
+ com.example.mytablayout.BuildConfig
+com/example/mytablayout/MainActivity.java
+ com.example.mytablayout.MainActivity
